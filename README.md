@@ -33,6 +33,22 @@ Statistical Methods Used:
 We also evaluated whether device type and user location were associated with meaningful differences in the above metrics.
 
 # Key Findings
+No significant difference was found between Group A and Group B in terms of:
+- Page Views (t-test, p > 0.05)
+- Time Spent on the website (t-test, p > 0.05)
+
+Conversion Rate, however, was significantly higher in Group B:
+- Group A (white background): ~5.4%
+- Group B (black background): ~14.1%, (z-test, p < 0.001)
+
+Device type had no significant effect on conversion rate:
+- Desktop vs. Mobile users showed no statistically significant difference (z-test, p > 0.05)
+
+Location had no significant effect on conversion, (Chi-square test, p > 0.05)
+
+# Conclusion: 
+Changing the background color from white to black led to a significant improvement in conversion rate. While device type and location did not independently influence outcomes, the new background design (Group B) consistently outperformed the control (Group A), supporting its potential implementation.
+
 
 
 
