@@ -19,6 +19,7 @@ Columns:
 - Device: Type of device used (e.g., Desktop or Mobile)
 - Location: Geographic region within the UK
 
+Data source: https://www.kaggle.com/cdatasets/adarsh0806/ab-testing-practice
 
 # Project Summary
 In this project, we conducted a statistical comparison between Group A and Group B to determine whether the background color change had a significant impact on user engagement.
