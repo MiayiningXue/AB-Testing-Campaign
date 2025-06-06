@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/MiayiningXue/AB-Testing-Campaign/blob/main/AB_Testing_Analysis.ipynb) 
+
 # AB-Testing-Campaign
 This A/B testing project analyzes the impact of a website background color change by comparing three key engagement metrics—page views, time spent, and conversion rate—between Group A (white background) and Group B (black background).
 
